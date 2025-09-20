@@ -132,7 +132,7 @@ img{
    .card{
        display: flex;
        flex-direction: column;
-       width: 20em;
+       width: 20.8em;
        height: 37.8em;
    }
     .card-body{ width: 100%;}
@@ -150,8 +150,9 @@ img{
     }
 
     #p1{margin-top: 8px}
-    
-    .container{width: 90%; gap: 18px;}
+
+    .container{
+        width: 290px;
+        gap: 18px;
+    }
 }
-
-
