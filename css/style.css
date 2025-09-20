@@ -133,7 +133,7 @@ img{
        display: flex;
        flex-direction: column;
        width: 20em;
-       height: 38.7em;
+       height: 37.8em;
    }
     .card-body{ width: 100%;}
 
@@ -148,7 +148,8 @@ img{
         border-bottom-left-radius: 0.5em;
         border-bottom-right-radius: 0.5em;
     }
-    #p1{margin-top: 8px}
-    .container{width: 85%; gap: 10px;}
-}
 
+    #p1{margin-top: 8px}
+    
+    .container{width: 90%; gap: 18px;}
+}
