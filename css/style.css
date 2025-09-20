@@ -135,7 +135,7 @@ img{
        width: 20em;
        height: 38.7em;
    }
-    .card-body{ width: 100%; border: 2px solid blue;}
+    .card-body{ width: 100%;}
 
     #cs1{
         height: 230px;
@@ -151,3 +151,4 @@ img{
     #p1{margin-top: 8px}
     .container{width: 85%; gap: 10px;}
 }
+
