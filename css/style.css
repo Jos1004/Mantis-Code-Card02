@@ -133,12 +133,12 @@ img{
        display: flex;
        flex-direction: column;
        width: 20em;
-       height: 38.5em;
+       height: 38.7em;
    }
-    .card-body{ width: 100%;}
+    .card-body{ width: 100%; border: 2px solid blue;}
 
     #cs1{
-        height: 240px;
+        height: 230px;
         border-bottom-left-radius: 0.1em;
         border-top-right-radius: 0.5em;
         background-position: 45% 48%;
@@ -149,6 +149,5 @@ img{
         border-bottom-right-radius: 0.5em;
     }
     #p1{margin-top: 8px}
-    .container{width: 85%; gap: 17px;}
-
+    .container{width: 85%; gap: 10px;}
 }
